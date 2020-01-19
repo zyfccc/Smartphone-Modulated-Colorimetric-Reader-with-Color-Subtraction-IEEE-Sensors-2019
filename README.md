@@ -85,10 +85,14 @@ Run `python color_subtraction.py` to train and validate the color subtraction mo
 
 ## Publication
 
+The oral presentation in IEEE Sensors 2019:
+
+https://www.youtube.com/watch?v=NfHZv8c8GZM
+
+
 Please cite our paper if you find this work helpful:
 
 https://ieeexplore.ieee.org/document/8956565
-
 
 
 ```
