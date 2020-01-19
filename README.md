@@ -67,6 +67,7 @@ This repo includes three unique and challenging image datasets with in total 174
 
 In the `training` folder are the pH test strips images produced with SMCR using transparent buffer pH solutions for the assay calibration. 
 
+
 <p align="center">
 <img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/blue.jpg" height="220">
 <img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/red.jpg" height="220">
