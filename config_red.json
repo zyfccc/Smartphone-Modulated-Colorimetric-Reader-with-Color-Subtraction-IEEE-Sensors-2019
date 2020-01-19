@@ -1,0 +1,6 @@
+{
+    "trainJsonPath": "datasets/training/tags.json",
+    "predictJsonPath": "datasets/red/tags.json",
+    "trainImagePath": "datasets/training/",
+    "predictImagePath": "datasets/red/"
+}
