@@ -6,6 +6,7 @@ These resources can be helpful for high-quality smartphones related researches.
 
 
 ## Environments
+
 * Python 2.7
 * Tensorflow 1.4.0
 * Using AutoCAD to open and edit .dwg 3D model files
@@ -13,31 +14,63 @@ These resources can be helpful for high-quality smartphones related researches.
 
 
 ## 3D Model
+
 This repo contains in total seven 3D models and their source files that compose the Smartphone Modulated Colorimetric Reader (SMCR).
 
 All the parts can be 3D-printed with proper printer setup.
 
 
 ### Light box connector
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/smartphone_case_connector.jpg" height="220">
+</p>
+
 This is the conenctor part that should be glued onto a commercial smartphone case to join with the light box. The camera and flashlight of the smartphone should be centered at the opening window of the connector. It should be 3D-printed in black material to prevent ambient light leakage.
 
 ### Light box
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/light_box.jpg" height="220">
+</p>
+
 This is the part that blocks the ambient light and normalizes the light condition for optical assays. It should be 3D-printed in black material to prevent ambient light leakage. 
 
 ### Light source adaptor
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/light_source_adaptor.jpg" height="220">
+</p>
+
 This is the light source adaptor component. Here, we simply use this block to prevent ambient light from entering the light box as an example. Other light sources can be designed to provide light sources required for the optical assays. It should be 3D-printed in black material to prevent ambient light leakage. 
 
 ### Assay platform adaptor
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/ph_adaptor.jpg" height="220">
+</p>
+
 This is the assay platform adaptor component. Here, we designed a pH test strip adaptor as an example. With this adaptor, pH test strips can be simply inserted into the light box from the side. It should be 3D-printed in black material to prevent ambient light leakage.
 
 ### Bottom panel and bottom panel cover
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/bottom_panel.jpg" height="220">
+</p>
+
 This is the bottom panel that closes the light box. The bottom panel could be 3D-printed in white material to ensure light reflectance while the bottom panel cover should be 3D-printed in black material to prevent ambient light leakage. A white paper could be used on top of the bottom panel to maximizes uniformity.
 
 
 ## Datasets
+
 This repo includes three unique and challenging image datasets with in total 174 carefully labelled images. 
 
 In the `training` folder are the pH test strips images produced with SMCR using transparent buffer pH solutions for the assay calibration. 
+
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/blue.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/red.jpg" height="220">
+</p>
 
 In the other two folders `blue` and `red` are the pH test strips images with SMCR and solution color catcher (SCC) using blue and red dyed pH buffer solutions, respectively. They are used for color subtration performance evaluation. 
 
