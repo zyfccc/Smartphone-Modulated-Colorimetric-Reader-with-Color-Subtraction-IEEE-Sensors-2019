@@ -23,7 +23,7 @@ All the parts can be 3D-printed with proper printer setup.
 ### Light box connector
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/smartphone_case_connector.jpg" height="150">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/smartphone_case_connector.jpg" height="120">
 </p>
 
 This is the conenctor part that should be glued onto a commercial smartphone case to join with the light box. The camera and flashlight of the smartphone should be centered at the opening window of the connector. It should be 3D-printed in black material to prevent ambient light leakage.
@@ -55,7 +55,7 @@ This is the assay platform adaptor component. Here, we designed a pH test strip 
 ### Bottom panel and bottom panel cover
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/bottom_panel.jpg" height="200">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/bottom_panel.jpg" height="100">
 </p>
 
 This is the bottom panel that closes the light box. The bottom panel could be 3D-printed in white material to ensure light reflectance while the bottom panel cover should be 3D-printed in black material to prevent ambient light leakage. A white paper could be used on top of the bottom panel to maximizes uniformity.
