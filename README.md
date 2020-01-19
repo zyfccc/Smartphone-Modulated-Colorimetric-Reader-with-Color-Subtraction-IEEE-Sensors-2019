@@ -23,7 +23,7 @@ All the parts can be 3D-printed with proper printer setup.
 ### Light box connector
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/smartphone_case_connector.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/smartphone_case_connector.jpg" height="150">
 </p>
 
 This is the conenctor part that should be glued onto a commercial smartphone case to join with the light box. The camera and flashlight of the smartphone should be centered at the opening window of the connector. It should be 3D-printed in black material to prevent ambient light leakage.
@@ -39,7 +39,7 @@ This is the part that blocks the ambient light and normalizes the light conditio
 ### Light source adaptor
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/light_source_adaptor.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/light_source_adaptor.jpg" height="70">
 </p>
 
 This is the light source adaptor component. Here, we simply use this block to prevent ambient light from entering the light box as an example. Other light sources can be designed to provide light sources required for the optical assays. It should be 3D-printed in black material to prevent ambient light leakage. 
@@ -47,7 +47,7 @@ This is the light source adaptor component. Here, we simply use this block to pr
 ### Assay platform adaptor
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/ph_adaptor.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/ph_adaptor.jpg" height="150">
 </p>
 
 This is the assay platform adaptor component. Here, we designed a pH test strip adaptor as an example. With this adaptor, pH test strips can be simply inserted into the light box from the side. It should be 3D-printed in black material to prevent ambient light leakage.
@@ -55,7 +55,7 @@ This is the assay platform adaptor component. Here, we designed a pH test strip 
 ### Bottom panel and bottom panel cover
 
 <p align="center">
-<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/bottom_panel.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/bottom_panel.jpg" height="200">
 </p>
 
 This is the bottom panel that closes the light box. The bottom panel could be 3D-printed in white material to ensure light reflectance while the bottom panel cover should be 3D-printed in black material to prevent ambient light leakage. A white paper could be used on top of the bottom panel to maximizes uniformity.
