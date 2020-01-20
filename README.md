@@ -94,7 +94,7 @@ Please cite our paper if you find this work helpful:
 
 https://ieeexplore.ieee.org/document/8956565
 
-https://pure.qub.ac.uk/en/publications/smartphone-modulated-colorimetric-reader-with-color-subtraction
+https://pureadmin.qub.ac.uk/ws/portalfiles/portal/192853239/Zhao_Smartphone_Accepted.pdf
 
 
 ```
