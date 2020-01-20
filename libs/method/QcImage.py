@@ -56,7 +56,7 @@ def SNIC_EMOR(background, target, params):
     target = gaussian_blur_background(target, 2, 5)
     background = gaussian_blur_background(background, 2, 5)
 
-    H = read_matrix("invemor.txt", 5)
+    H = read_matrix("resources/invemor.txt", 5)
     crf = predict(H, params)
 
     def correct_intensity(colors, crf):
