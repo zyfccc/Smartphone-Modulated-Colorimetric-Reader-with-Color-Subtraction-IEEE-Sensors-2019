@@ -20,6 +20,12 @@ This repo contains in total seven 3D models and their source files that compose 
 All the parts can be 3D-printed with proper printer setup.
 
 
+<p align="center">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/resources/demo2.jpg" height="220">
+<img src="https://github.com/zyfccc/Smartphone-Modulated-Colorimetric-Reader-with-Color-Subtraction-IEEE-Sensors-2019/blob/master/resources/demo.jpg" height="220">
+</p>
+
+
 ### Light box connector
 
 <p align="center">
