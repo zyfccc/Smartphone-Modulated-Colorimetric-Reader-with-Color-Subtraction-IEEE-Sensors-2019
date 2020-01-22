@@ -100,7 +100,7 @@ Please cite our paper if you find this work helpful:
 
 https://ieeexplore.ieee.org/document/8956565
 
-https://pureadmin.qub.ac.uk/ws/portalfiles/portal/192853239/Zhao_Smartphone_Accepted.pdf
+https://pure.qub.ac.uk/files/192853239/Zhao_Smartphone_Accepted.pdf
 
 
 ```
